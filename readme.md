@@ -13,8 +13,7 @@ In the project directory, you can run:
 Contract Address : KT1Sr4Te8j7uWzrHQAxCduqbDFCY8YLeqwJL
 
 RPC URL : https://ghostnet.smartpy.io
-
-![image](https://github.com/Blockchain-BY-STV/CrowdFunding/assets/94349122/90daf758-76e0-4083-9cc3-df7a2667934f)
+![image](https://github.com/Blockchain-BY-STV/CrowdFunding-BY-STV/assets/128304440/9b8e1c1b-4fa1-4a81-a7ef-3712fe6dacf5)
 
 Many students face financial challenges when it comes to paying for their education, textbooks, research projects, or study abroad programs. A crowdfunding platform allows students to create campaigns and seek financial support from a wider community, including family, friends, alumni, and even strangers who are passionate about education. This CrowdFunding app can help bridge the financial gap and enable students to pursue their educational goals.
 
