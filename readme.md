@@ -20,7 +20,7 @@ Many students face financial challenges when it comes to paying for their educat
 ![image](https://github.com/Blockchain-BY-STV/CrowdFunding/assets/94349122/2c42755a-faaa-4a10-92b5-de79f3ffdb45)
 Any contributor can log into the site and connect their wallet using BeaconWallet. Here in the screenshot, we have used temple wallet. 
 
-![image](https://github.com/Blockchain-BY-STV/CrowdFunding/assets/94349122/12109c8e-cd34-466a-9f43-925215304775)
+![image](https://github.com/Blockchain-BY-STV/CrowdFunding-BY-STV/assets/128304440/66e8a3d6-7396-4bbb-b1ce-b10b0817a96c)
 
 After Wallet is connected, the user can enter the amount that they want to contribute, and press  on update amount button. They need to click on Contribute button to begin the transaction.
 
